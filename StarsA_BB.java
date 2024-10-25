@@ -1,8 +1,8 @@
 //*******************************************************
 // StarsA_BB.java         Author: Brandon Bocanegra
 // 
-// Stars Triangle Program
-// Due Date: January 21st, 2024
+// 
+// 
 // Demonstarte the use of nested loops to create triangle
 // pattern
 //*******************************************************

@@ -1,8 +1,8 @@
 //*******************************************************
 // StarsD_BB.java         Author: Brandon Bocanegra
 // 
-// Stars Triangle Diamond Program
-// Due Date: January 21st, 2024
+// 
+// 
 // Demonstarte the use of nested loops to create diamond
 // pattern
 //*******************************************************
